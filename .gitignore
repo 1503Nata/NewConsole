@@ -3,3 +3,5 @@ obj/
 Example002 HelloUser.csproj
 Example003_Sum.csproj
 Example004_Div.csproj
+Example005_IfElse.csproj
+Example006_Base.csproj
